@@ -4,8 +4,8 @@ MYMetaTicket is a decentralized NFT ticket platform for any events. Buy NFT tick
 
 ## Screenshots
 ![Screenshot-1](MainInterface.png)
-![Screenshot2](https://github.com/Mudit-Jxin7/TicketMaster-web3/assets/97677133/2bc97351-cca4-4c27-bacc-01fdafb9c6fe)
-![Screenshot-3](https://github.com/Mudit-Jxin7/TicketMaster-web3/assets/97677133/ca3613a5-f470-4e92-8cd0-45b98ce2021a)
+![Screenshot2](TicketView.png)
+![Screenshot-3](TicketBooking.png)
 
 ## What are the features in our system?
 
